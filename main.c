@@ -40,4 +40,4 @@ int main() {
         usleep(30000);
     }
     return 0;
-} qwertyuiopasdfghjklzxcvb
+} qwertyuiopasdfghjklzxcv
